@@ -5,3 +5,4 @@
 | Random array            |   +  |    +   |        |      |            |
 | GCD                     |   +  |    +   |        |      |            |
 | Power                   |   +  |    +   |        |      |            |
+| Simple Factors          |   +  |    +   |        |      |            |
