@@ -83,6 +83,17 @@ internal class SimpleFactorCalculatorTest {
         )
     }
 
+    @Test
+    fun calculate_2_2Only() {
+        //act
+        val result = SimpleFactorCalculator.calculate(2)
+
+        //assert
+        assertTrue(
+            checkIfListsContainsTheSameElements(listOf(2), result)
+        )
+    }
+
     private fun checkIfListsContainsTheSameElements(first: List<*>, second: List<*>): Boolean =
         first.containsAll(second) && second.containsAll(first)
 

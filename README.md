@@ -6,3 +6,4 @@
 | GCD                     |   +  |    +   |        |      |            |
 | Power                   |   +  |    +   |        |      |            |
 | Simple Factors          |   +  |    +   |        |      |            |
+| Eratosthenes Prime Call |   +  |    +   |        |      |            |
