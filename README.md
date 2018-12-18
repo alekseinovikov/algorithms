@@ -7,3 +7,4 @@
 | Power                   |   +  |    +   |        |      |            |
 | Simple Factors          |   +  |    +   |        |      |            |
 | Eratosthenes Prime Call |   +  |    +   |        |      |            |
+| Ferma Test              |   +  |    +   |        |      |            |
