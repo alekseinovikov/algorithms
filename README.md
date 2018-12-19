@@ -8,3 +8,6 @@
 | Simple Factors          |   +  |    +   |        |      |            |
 | Eratosthenes Prime Call |   +  |    +   |        |      |            |
 | Ferma Test              |   +  |    +   |        |      |            |
+| Rectangle integration   |   +  |    +   |        |      |            |
+| Trapezium integration   |   +  |    +   |        |      |            |
+| Adaptive integration    |   +  |    +   |        |      |            |
