@@ -2,7 +2,7 @@
 
 |                         | Java | Kotlin | Python | Ruby | TypeScript |
 |-------------------------|------|--------|--------|------|------------|
-| Random array            |   +  |    +   |        |      |            |
+| Random array            |   +  |    +   |   +    |      |            |
 | GCD                     |   +  |    +   |   +    |      |            |
 | Power                   |   +  |    +   |        |      |            |
 | Simple Factors          |   +  |    +   |        |      |            |
