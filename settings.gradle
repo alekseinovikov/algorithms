@@ -2,3 +2,4 @@ rootProject.name = 'algorithms'
 
 include 'algorithms-kotlin'
 include 'algorithms-java'
+include 'algorithms-python'

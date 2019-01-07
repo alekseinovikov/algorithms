@@ -12,4 +12,5 @@ repositories {
 dependencies {
     compile project(":algorithms-java")
     compile project(":algorithms-kotlin")
+    compile project(":algorithms-python")
 }

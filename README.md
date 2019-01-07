@@ -3,7 +3,7 @@
 |                         | Java | Kotlin | Python | Ruby | TypeScript |
 |-------------------------|------|--------|--------|------|------------|
 | Random array            |   +  |    +   |        |      |            |
-| GCD                     |   +  |    +   |        |      |            |
+| GCD                     |   +  |    +   |   +    |      |            |
 | Power                   |   +  |    +   |        |      |            |
 | Simple Factors          |   +  |    +   |        |      |            |
 | Eratosthenes Prime Call |   +  |    +   |        |      |            |
